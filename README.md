@@ -4,3 +4,10 @@ This project implements a simple PGM image compressor and decompressor using Run
 
 ## Project Structure
 
+PGM_Compressor/
+├── src/
+│ ├── PGM.h
+│ ├── PGM.cpp
+│ └── main.cpp
+├── README.md
+└── .gitignore
